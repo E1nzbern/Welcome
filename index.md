@@ -1,3 +1,5 @@
+<div align=center>![我们的logo](https://MeganGid.github.io/Welcome/logo 2.png)
+
 ### 我们是谁
 
 团委宣传部是院团委下设的四大职能部门之一，是负责共青团宣传工作的重要部门，致力于学院思想引领、精神文明建设。
