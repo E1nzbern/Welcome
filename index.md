@@ -18,4 +18,4 @@
 
 ### 我们的招新群
 
-![](https://MeganGid.github.io/Welcome/微信图片_20191013124337.jpg)
+<div align="center"><img width="400" height="auto" src="https://MeganGid.github.io/Welcome/微信图片_20191013124337.jpg"/></div>
