@@ -1,6 +1,12 @@
-## Welcome to GitHub Pages
+## 欢迎加入理学院团委宣传部
 
-You can use the [editor on GitHub](https://github.com/MeganGid/tuanxuanzx/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+团委宣传部是院团委下设的四大职能部门之一，是负责共青团宣传工作的重要部门，致力于学院思想引领、精神文明建设。
+团委宣传部下设访谈部，编辑部，设计部，影视部4个部门。
+具体工作有
+1.团委新闻、图片的采集和发布以及学院大型活动的宣传报道；
+2.学院内宣传品的制作与管理；
+3.专访我院先进教师、杰出校友、优秀同学的事迹；
+4.协助院团委其他部门开展宣传工作。
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
