@@ -1,4 +1,4 @@
-<div align="center"><img width="200" height="200" src="https://MeganGid.github.io/Welcome/logo.png"/></div>
+<div align="center"><img width="auto" height="200" src="https://MeganGid.github.io/Welcome/logo.png"/></div>
 
 ### 我们是谁
 
