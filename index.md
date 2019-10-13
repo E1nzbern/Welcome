@@ -14,7 +14,7 @@
 
 ### 想了解更多
 
-[走进团宣|揭开团宣宣的神秘面纱](https://mp.weixin.qq.com/s/aj2sJo273P0qGkKzBlNL3g)
+[走进团宣-揭开团宣宣的神秘面纱](https://mp.weixin.qq.com/s/aj2sJo273P0qGkKzBlNL3g)
 
 ### 我们的招新群
 
@@ -22,5 +22,5 @@
 
 ### 报名表
 
- - [点击这里下载example link](https://raw.githubusercontent.com/MeganGid/Welcome/master/%E5%8C%97%E4%BA%AC%E4%BA%A4%E9%80%9A%E5%A4%A7%E5%AD%A6%E7%90%86%E5%AD%A6%E9%99%A2%E5%9B%A2%E5%A7%94%E8%81%8C%E8%83%BD%E9%83%A8%E9%97%A8%E5%B9%B2%E4%BA%8B%E7%94%B3%E8%AF%B7%E8%A1%A8.docx "报名表"). 
+ - [点击这里下载报名表](https://raw.githubusercontent.com/MeganGid/Welcome/master/%E5%8C%97%E4%BA%AC%E4%BA%A4%E9%80%9A%E5%A4%A7%E5%AD%A6%E7%90%86%E5%AD%A6%E9%99%A2%E5%9B%A2%E5%A7%94%E8%81%8C%E8%83%BD%E9%83%A8%E9%97%A8%E5%B9%B2%E4%BA%8B%E7%94%B3%E8%AF%B7%E8%A1%A8.docx "报名表")
  - 查阅以往收到的招新邮件
