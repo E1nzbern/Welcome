@@ -13,3 +13,7 @@
 ### 想了解更多
 
 [走进团宣|揭开团宣宣的神秘面纱](https://mp.weixin.qq.com/s/aj2sJo273P0qGkKzBlNL3g)
+
+### 我们的招新群
+
+![](https://MeganGid.github.io/tuanxuanzx/微信图片_20191013124337.jpg)
