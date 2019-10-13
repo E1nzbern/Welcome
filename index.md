@@ -16,4 +16,4 @@
 
 ### 我们的招新群
 
-![](https://MeganGid.github.io/tuanxuanzx/微信图片_20191013124337.jpg)
+![](https://MeganGid.github.io/Welcome/微信图片_20191013124337.jpg)
