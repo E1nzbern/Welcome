@@ -1,4 +1,4 @@
-<div align=center>![我们的logo](https://MeganGid.github.io/Welcome/logo.png)
+<div align="center"><img src="https://MeganGid.github.io/Welcome/logo.png"/></div>
 
 ### 我们是谁
 
