@@ -1,4 +1,4 @@
-<div align="center"><img width="auto" height="200" src="https://MeganGid.github.io/Welcome/logo.jpg"/></div>
+<div align="center"><img width="auto" height="200" src="https://E1nzbern.github.io/Welcome/logo.jpg"/></div>
 
 ### 我们是谁
 
@@ -18,7 +18,7 @@
 
 ### 我们的招新群
 
-<div align="center"><img width="400" height="auto" src="https://MeganGid.github.io/Welcome/微信图片_20191013124337.jpg"/></div>
+<div align="center"><img width="400" height="auto" src="https://E1nzbern.github.io/Welcome/微信图片_20191013124337.jpg"/></div>
 
 ### 报名表
 
